@@ -4,7 +4,7 @@ Portfolio of my recent work
 
 A portfolio of the projects and assignments I complete throughout bootcamp and after for prospective employers.
 ## Screenshot 
-![Screenshot](/EE04538C-7024-4EA0-A190-8763F92F28CD.png "Portfolio Screenshot")
+![Screenshot](/assets/images/EE04538C-7024-4EA0-A190-8763F92F28CD.png "Portfolio Screenshot")
 ## Installation 
 
 N/A
